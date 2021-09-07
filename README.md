@@ -164,6 +164,24 @@ while ( true ) {
 
 <!-- /.references -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/math/iter/sequences/odd-integers`][@stdlib/math/iter/sequences/odd-integers]</span><span class="delimiter">: </span><span class="description">create an iterator which generates an interleaved sequence of odd integers.</span>
+-   <span class="package-name">[`@stdlib/math/iter/sequences/integers`][@stdlib/math/iter/sequences/integers]</span><span class="delimiter">: </span><span class="description">create an iterator which generates an interleaved integer sequence.</span>
+-   <span class="package-name">[`@stdlib/math/iter/sequences/negative-odd-integers`][@stdlib/math/iter/sequences/negative-odd-integers]</span><span class="delimiter">: </span><span class="description">create an iterator which generates a sequence of negative odd integers.</span>
+-   <span class="package-name">[`@stdlib/math/iter/sequences/positive-even-integers`][@stdlib/math/iter/sequences/positive-even-integers]</span><span class="delimiter">: </span><span class="description">create an iterator which generates a sequence of positive even integers.</span>
+-   <span class="package-name">[`@stdlib/math/iter/sequences/positive-integers`][@stdlib/math/iter/sequences/positive-integers]</span><span class="delimiter">: </span><span class="description">create an iterator which generates a positive integer sequence.</span>
+
+</section>
+
+<!-- /.related -->
+
 <!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
 
 
@@ -222,6 +240,20 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/math-iter-sequences-positive-odd-integers/main/LICENSE
 
 [oeis-a005408]: http://oeis.org/A005408
+
+<!-- <related-links> -->
+
+[@stdlib/math/iter/sequences/odd-integers]: https://github.com/stdlib-js/math-iter-sequences-odd-integers
+
+[@stdlib/math/iter/sequences/integers]: https://github.com/stdlib-js/math-iter-sequences-integers
+
+[@stdlib/math/iter/sequences/negative-odd-integers]: https://github.com/stdlib-js/math-iter-sequences-negative-odd-integers
+
+[@stdlib/math/iter/sequences/positive-even-integers]: https://github.com/stdlib-js/math-iter-sequences-positive-even-integers
+
+[@stdlib/math/iter/sequences/positive-integers]: https://github.com/stdlib-js/math-iter-sequences-positive-integers
+
+<!-- </related-links> -->
 
 </section>
 
