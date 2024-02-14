@@ -54,7 +54,7 @@ limitations under the License.
 <!-- eslint-disable id-length -->
 
 ```javascript
-import iterPositiveOddIntegersSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-positive-odd-integers@esm/index.mjs';
+import iterPositiveOddIntegersSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-positive-odd-integers@v0.2.0-esm/index.mjs';
 ```
 
 #### iterPositiveOddIntegersSeq( \[options] )
@@ -141,7 +141,7 @@ var bool = it.next().done;
 <body>
 <script type="module">
 
-import iterPositiveOddIntegersSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-positive-odd-integers@esm/index.mjs';
+import iterPositiveOddIntegersSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-positive-odd-integers@v0.2.0-esm/index.mjs';
 
 // Create an iterator:
 var opts = {
